@@ -1,3 +1,1 @@
-# Automated Comment Bot
-
-A repository to test GitHub automation for adding comments to specific issues and closing them.
+IyBBdXRvbWF0ZWQgQ29tbWVudCBCb3QKCkEgcmVwb3NpdG9yeSB0byB0ZXN0IEdpdEh1YiBhdXRvbWF0aW9uIGZvcgphZGRpbmcgY29tbWVudHMgdG8gc3BlY2lmaWMgaXNzdWVzIGFuZCBjbG9zaW5nIHRoZW0u
